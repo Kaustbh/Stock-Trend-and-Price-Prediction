@@ -13,3 +13,4 @@ plotly==5.15.0
 pickleshare==0.7.5
 Keras-Preprocessing==1.1.2
 tensorflow==2.12.0
+protobuf==4.23.3
